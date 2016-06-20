@@ -2,9 +2,9 @@
   "name": "eventemitter-benchmark",
   "version": "1.0.0",
   "description": "EventEmitter Benchmark",
-  "main": "index.js",
+  "main": "entry.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "webpack"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/sparanoid/eventemitter-benchmark/issues"
   },
-  "homepage": "https://github.com/sparanoid/eventemitter-benchmark#readme"
+  "homepage": "https://github.com/sparanoid/eventemitter-benchmark#readme",
+  "dependencies": {
+    "benchmark": "^2.1.0",
+    "eventemitter2": "^1.0.3",
+    "eventemitter3": "^1.2.0",
+    "eventemitter4": "^0.2.4",
+    "fast-event-emitter": "0.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
 }
