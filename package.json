@@ -1,0 +1,22 @@
+{
+  "name": "eventemitter-benchmark",
+  "version": "1.0.0",
+  "description": "EventEmitter Benchmark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparanoid/eventemitter-benchmark.git"
+  },
+  "keywords": [
+    "eventemitter"
+  ],
+  "author": "Tunghsiao Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sparanoid/eventemitter-benchmark/issues"
+  },
+  "homepage": "https://github.com/sparanoid/eventemitter-benchmark#readme"
+}
