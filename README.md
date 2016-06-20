@@ -2,5 +2,5 @@
 
 ```bash
 $ webpack
-open index.html
+$ open index.html
 ```
