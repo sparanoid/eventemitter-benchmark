@@ -21,12 +21,12 @@
   "homepage": "https://github.com/sparanoid/eventemitter-benchmark#readme",
   "dependencies": {
     "benchmark": "^2.1.0",
-    "eventemitter2": "^1.0.3",
-    "eventemitter3": "^1.2.0",
+    "eventemitter2": "^4.1.0",
+    "eventemitter3": "^2.0.3",
     "eventemitter4": "^0.2.4",
     "fast-event-emitter": "0.0.2"
   },
   "devDependencies": {
-    "webpack": "^1.13.1"
+    "webpack": "^2.6.0"
   }
 }
